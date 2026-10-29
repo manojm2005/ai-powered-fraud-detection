@@ -1,0 +1,22 @@
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local datasets
+data/
+*.csv
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db

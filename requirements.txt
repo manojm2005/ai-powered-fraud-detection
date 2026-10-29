@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+joblib
+fastapi
+uvicorn
+pymysql
+sqlalchemy
+python-dotenv
+streamlit
+requests
